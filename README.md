@@ -1,20 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-
 # Simple Ui Pages
 
 This is a ui pages built with Next.js and Chakra Ui. It helps you to quickly add login, register, otp, and reset ui for your app.
