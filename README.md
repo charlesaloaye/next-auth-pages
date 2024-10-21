@@ -26,10 +26,7 @@ The following dependencies are required for this project:
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
 
-
-
-
-##Output
+## Output
 
 ![Front Page](https://github.com/charlesaloaye/next-auth-pages/blob/main/app/assets/images/front-page.png)
 
