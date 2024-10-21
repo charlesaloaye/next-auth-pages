@@ -35,5 +35,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+#Output
 
 ![Front Page](https://github.com/charlesaloaye/next-auth-pages/blob/main/app/assets/images/front-page.png)
+
+![Login Page](https://github.com/charlesaloaye/next-auth-pages/blob/main/app/assets/images/login.png)
+
+![Registration Page](https://github.com/charlesaloaye/next-auth-pages/blob/main/app/assets/images/register.png)
+
+![Onetime Password Page](https://github.com/charlesaloaye/next-auth-pages/blob/main/app/assets/images/otp.png)
+
+![Password Reset Page](https://github.com/charlesaloaye/next-auth-pages/blob/main/app/assets/images/reset.png)
